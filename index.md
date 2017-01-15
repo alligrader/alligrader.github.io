@@ -6,11 +6,66 @@ title: Document Center
 
 ## Robbie
 
+- Ran a number of small, one-on-one meetings, mostly conceptual in nature. (3 hours)
+- Explored our options for using GitHub Integrations and applied for Early Access (30 minutes)
+
 ## Connor
 
 ## Daniel
 
+----------------------
+
 # 1/27/17
+
+## Robbie
+
+## Connor
+
+## Daniel
+
+---------------------
+
+# 2/3/17
+
+## Robbie
+
+## Connor
+
+## Daniel
+
+----------------------
+
+# 2/17/17
+
+## Robbie
+
+## Connor
+
+## Daniel
+
+----------------------
+
+# 4/3/17
+
+## Robbie
+
+## Connor
+
+## Daniel
+
+-----------------
+
+# 4/17/17
+
+## Robbie
+
+## Connor
+
+## Daniel
+
+--------------
+
+# 4/31/17
 
 ## Robbie
 
