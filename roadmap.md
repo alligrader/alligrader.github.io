@@ -34,18 +34,18 @@ title: Roadmap
 - [ ] Build media types for the Checkstyle configuration (Connor)
 - [ ] Marshall Checkstyle configuation into an XML file and store as a Blob in the database (Robbie)
 
-- [ ] Learn React / Redux
-- [ ] Build sign-in component
-- [ ] Style index page
-- [ ] Build home page component
-- [ ] Create `New bug profile` component
-- [ ] Create `Edit bug profile` component 
-- [ ] Write `Delete bug profile` function
-- [ ] Create `View profile` component
-- [ ] Create `View all profiles` component
-- [ ] Create `Settings` component
-- [ ] Create `add new project` component
-- [ ] Create `view all projects` component
-- [ ] Create `view single project` component
-- [ ] Write `destroy project` function
-- [ ] Create `edit project` component
+- [ ] Learn React / Redux (Connor)
+- [ ] Build sign-in component (Connor)
+- [ ] Style index page (Connor)
+- [ ] Build home page component (Connor)
+- [ ] Create `New bug profile` component (Connor)
+- [ ] Create `Edit bug profile` component  (Connor)
+- [ ] Write `Delete bug profile` function (Connor)
+- [ ] Create `View profile` component (Connor)
+- [ ] Create `View all profiles` component (Connor)
+- [ ] Create `Settings` component (Connor)
+- [ ] Create `add new project` component (Connor)
+- [ ] Create `view all projects` component (Connor)
+- [ ] Create `view single project` component (Connor)
+- [ ] Write `destroy project` function (Connor)
+- [ ] Create `edit project` component (Connor)
