@@ -4,7 +4,7 @@ title: Roadmap
 
 # Roadmap for the Independent Project
 
-- [ ] Learn Go (Daniel)
+- [x] ~~Learn Go (Daniel)~~
 - [ ] Virtualize Kubernetes on Vagrant (Robbie)
 - [ ] Extract configuration to environment variables (Robbie)
 - [ ] Nice to have: switch the default shell to Fish in the Linux box (Robbie)

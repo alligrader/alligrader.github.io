@@ -9,10 +9,13 @@ title: Document Center
 - Ran a number of small, one-on-one meetings, mostly conceptual in nature. (3 hours)
 - Explored our options for using GitHub Integrations and applied for Early Access (30 minutes)
 - Build this website (30 minutes)
+- Planned out the remaining user stories for the entire semester (1.5 hours)
 
 ## Connor
 
 ## Daniel
+
+- Planned out the remaining user stories for the entire semester (1.5 hours)
 
 ----------------------
 
