@@ -10,6 +10,7 @@ title: Document Center
 - Explored our options for using GitHub Integrations and applied for Early Access (30 minutes)
 - Build this website (30 minutes)
 - Planned out the remaining user stories for the entire semester (1.5 hours)
+- Built the Checkstyle model, represented as booleans (1.5 hours)
 
 ## Connor
 
