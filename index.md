@@ -19,6 +19,7 @@ title: Document Center
 - Planned out the remaining user stories for the entire semester (1.5 hours)
 - Compiled Tree Go code and ran very basic tests (5 hours)
 - Meeting (.5 hours)
+
 ----------------------
 
 # 1/27/17
