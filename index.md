@@ -14,6 +14,8 @@ title: Document Center
 
 ## Connor
 
+- Group Meeting (1 Hour)
+
 ## Daniel
 
 - Planned out the remaining user stories for the entire semester (1.5 hours)
