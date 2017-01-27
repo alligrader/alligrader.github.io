@@ -14,7 +14,10 @@ title: Document Center
 
 ## Connor
 
-- Group Meeting (1 Hour)
+- Group Meeting [1 Hour]
+- Began learning React/Redux [4 hrs]
+- Learned structure of project including how to use React Router [2 hrs]
+- Created home-page, index-page, global footer and global navbar. [2 hrs]
 
 ## Daniel
 
@@ -29,6 +32,12 @@ title: Document Center
 ## Robbie
 
 ## Connor
+
+- Created About & Contact Pages [1 hour]
+- Converted to ES6 Formatting [1 hour]
+- Preliminary styling for Home, Index, About and Contact Pages [2 Hours]
+- Continued learning React/Redux [3 Hours]
+- Began researching reducers/showing state for next Issue [1 Hour]
 
 ## Daniel
 
