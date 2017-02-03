@@ -36,7 +36,7 @@ title: Document Center
 - Minor adjustments to the provisioning process of our Vagrant box (1 hour)
 - Wrote up https://github.com/alligrader/gradebook/issues/2 (1 hour)
 - Wrote up https://github.com/alligrader/autograder/issues/1 (.5 hours)
-- Conducting Fiday meeting with Daniel (1 hour)
+- Conducting Friday meeting with Daniel (1 hour)
 - Skyped Connor to help with Git trouble (.5 hours)
 
 ## Connor
@@ -56,6 +56,11 @@ title: Document Center
 ## Robbie
 
 ## Connor
+
+- Continued learning Redux, how containers work etc. [2.5 hours]
+- Starting building Repo-List container. [1 Hour]
+- Got a test reducer working for the container [.5 Hours]
+- Began working on Action Creator(s) [1 Hour]
 
 ## Daniel
 
