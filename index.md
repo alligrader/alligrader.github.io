@@ -66,6 +66,20 @@ title: Document Center
 
 ----------------------
 
+# 2/10/17
+
+## Robbie
+
+## Connor
+
+- Learned how to use SuperAgent (https://visionmedia.github.io/superagent/) [2 hours]
+- Began developing the groundwork to get the Repository Lists from GitHub API [4 Hour]
+- Learned how to call GH API and make a request using SuperAgent [1 Hours]
+- Learned about Life-cycle methods and how to use componentWillMount to create an action [1.5 Hour]
+
+## Daniel
+
+----------------------
 # 2/17/17
 
 ## Robbie
