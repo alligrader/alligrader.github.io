@@ -15,7 +15,7 @@ title: Roadmap
 - [ ] Set up tests for the event watcher (Robbie)
 - [ ] Document how to use GitHub integrations (Robbie)
 - [ ] Write functions to launch Kubernetes pods (Daniel)
-- [ ] Find a way to pass data into the pods --> so that you can give it the API key or the repo ref. (Robbie or Daniel)
+- [x] ~~Find a way to pass data into the pods --> so that you can give it the API key or the repo ref~~ See [the documentation](https://kubernetes.io/docs/user-guide/configuring-containers/#environment-variables-and-variable-expansion) for more.
 - [ ] Our Jobs repo needs a main function. This function builds all of the tasks, reads in the right information from the environment, and then executes the Job by walking the tree. It needs to read from the environment a) the repo name b) the access token c) the git ref (Daniel)
 - [ ] Tasks: 
     - [ ] Read proper environment variables and inject them into the ctx. (Daniel)

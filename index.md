@@ -55,6 +55,12 @@ title: Document Center
 
 ## Robbie
 
+- Virtualized Vagrant and MySQL [4+ hours]
+- Debug virtualization code with Dan [2 hours]
+- Meeting with Connor [1 hour]
+- Hid my GitHub API key in the filesystem but expose it through a route [.5 hours]
+- Worked on caching the VM image and debugging problems on Windows with Dan and Connor independently. [3 hours]
+
 ## Connor
 
 - Continued learning Redux, how containers work etc. [2.5 hours]
@@ -70,6 +76,12 @@ title: Document Center
 
 ## Robbie
 
+- Build a Findbugs Dockerfile and publish it to [Dockerhub](https://hub.docker.com/r/thesnowmancometh/findbugs/). [1 hour]
+- Meeting with Connor [1 hour]
+- Wrote up all issues for the upcoming milestones [2 hours]
+- Researched user authentication in React and planned our approach [1 hour]
+- Attended SteelHacks this weekend, so this is going to be a light week (next week will be light too since I'm organizing a hackathon for the weekend of the 19th. I will make up my hours after that.
+
 ## Connor
 
 - Learned how to use SuperAgent (https://visionmedia.github.io/superagent/) [2 hours]
@@ -79,10 +91,17 @@ title: Document Center
 
 ## Daniel
 
-----------------------
+## Connor
+
+## Daniel
+
+---------------------
+
 # 2/17/17
 
 ## Robbie
+
+- Application authentication, getting OAuth to connect to the server, no data storage [3 hours]
 
 ## Connor
 
@@ -93,6 +112,8 @@ title: Document Center
 # 4/3/17
 
 ## Robbie
+
+
 
 ## Connor
 
