@@ -91,10 +91,6 @@ title: Document Center
 
 ## Daniel
 
-## Connor
-
-## Daniel
-
 ---------------------
 
 # 2/17/17
