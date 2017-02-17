@@ -98,6 +98,7 @@ title: Document Center
 ## Robbie
 
 - Application authentication, getting OAuth to connect to the server, no data storage [3 hours]
+- Configured a public Kubernetes instance, a public domain, and registered a GitHub Integration. The Integration connects to the public instance, and the domain is linked to the running pods services on Kubernetes. [3.75 hours]
 
 ## Connor
 
