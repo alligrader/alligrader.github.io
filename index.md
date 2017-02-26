@@ -80,7 +80,7 @@ title: Document Center
 - Meeting with Connor [1 hour]
 - Wrote up all issues for the upcoming milestones [2 hours]
 - Researched user authentication in React and planned our approach [1 hour]
-- Attended SteelHacks this weekend, so this is going to be a light week (next week will be light too since I'm organizing a hackathon for the weekend of the 19th. I will make up my hours after that.
+- Attended SteelHacks this weekend, so this is going to be a light week (next week will be light too since I'm organizing a hackathon for the weekend of the 19th. As a result, the week of the 25th I will be light on hours. I will make up my hours after that (probably over Spring Break).
 
 ## Connor
 
@@ -106,11 +106,24 @@ title: Document Center
 
 ----------------------
 
-# 4/3/17
+# 2/24/17
 
 ## Robbie
 
+As noted above, this week will be light in hours for me. I'll make them up over the week of the 27th and over Spring Break
+- Collaborated with Connor and JJ Naughton on bug in our Redux code. (1.5 hours)
+- Adjusted the media types and the response payload for user authentication (2 hours)
+- Reviewed library code snippets on how to sign, decrypt, and issue JSON web tokens (1 hour)
 
+## Connor
+
+## Daniel
+
+----------------------
+
+# 4/3/17
+
+## Robbie
 
 ## Connor
 
