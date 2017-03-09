@@ -135,6 +135,9 @@ As noted above, this week will be light in hours for me. I'll make them up over 
 
 ## Robbie
 
+- Switched our dependency manager from `glide` to `dep` in all repos (30 minutes)
+- Added ESLint and fixed violations (2.5 hours)
+
 ## Connor
 
 ## Daniel
