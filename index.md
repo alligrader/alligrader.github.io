@@ -148,7 +148,7 @@ As noted above, this week will be light in hours for me. I'll make them up over 
 
 ## Robbie
 
-- Bootstrapped testing infrustrature and put it under CI
+- Bootstrapped testing infrustrature and put it under CI (3 hours)
 
 ## Connor
 
