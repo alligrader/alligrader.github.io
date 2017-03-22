@@ -144,10 +144,18 @@ As noted above, this week will be light in hours for me. I'll make them up over 
 
 --------------
 
+# 4/24/17
+
+## Robbie
+
+- Bootstrapped testing infrustrature and put it under CI
+
+## Connor
+
+-------------
+
 # 4/31/17
 
 ## Robbie
 
 ## Connor
-
-## Daniel
