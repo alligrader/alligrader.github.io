@@ -149,6 +149,9 @@ As noted above, this week will be light in hours for me. I'll make them up over 
 ## Robbie
 
 - Bootstrapped testing infrustrature and put it under CI (3 hours)
+- Met with Connor to discuss our plans for the coming weeks and what we'll plan to have for Dr. Ramirez (1 hour)
+- Fixed a bug upstream in an open source repo we were using. It took me a long time to track down why we were experiencing this bug. I had to trace through the source code of a dependency, but once I found it the change was trivial. See [this link](https://github.com/myntra/pipeline/pull/3) for the change. (2 hours)
+- Worked on another upstream bug in a [dependency](https://github.com/kkeuning/reduxa). This one I didn't get to fix yet, but I'm working with the author to see if we can figure out what's going on. Then, I'll have a patch for that bug too. (3 hours)
 
 ## Connor
 
