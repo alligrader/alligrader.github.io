@@ -153,6 +153,7 @@ As noted above, this week will be light in hours for me. I'll make them up over 
 - Fixed a bug upstream in an open source repo we were using. It took me a long time to track down why we were experiencing this bug. I had to trace through the source code of a dependency, but once I found it the change was trivial. See [this link](https://github.com/myntra/pipeline/pull/3) for the change. (3 hours)
 - Worked on another upstream bug in a [dependency](https://github.com/kkeuning/reduxa). This one I didn't get to fix yet, but I'm working with the author to see if we can figure out what's going on. Then, I'll have a patch for that bug too. (3 hours)
 - Added a Task for fetching an archive from GitHub and unpacking it. I have to test this code still. See the commit [here](https://github.com/alligrader/jobs/commit/64d2620e0610f35c692d5c5a38c18105ae0e7a41) (2 hours)
+- Add a Task for running Checkstyle and Findbugs jars over source code. (1.5 hours)
 
 ## Connor
 
