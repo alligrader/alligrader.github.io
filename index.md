@@ -165,5 +165,6 @@ As noted above, this week will be light in hours for me. I'll make them up over 
 
 - Tested and debugged the code for fetching an archive from GitHub. (1.5 hours)
 - Refactor the Tasks for running checkstyle and findbugs, still untested, but compiles (1 hour)
+- Add test for Findbugs Task (1.75 hours)
 
 ## Connor
