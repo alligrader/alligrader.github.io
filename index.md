@@ -121,7 +121,7 @@ As noted above, this week will be light in hours for me. I'll make them up over 
 
 ----------------------
 
-# 4/3/17
+# 3/3/17
 
 ## Robbie
 
@@ -131,7 +131,7 @@ As noted above, this week will be light in hours for me. I'll make them up over 
 
 -----------------
 
-# 4/17/17
+# 3/17/17
 
 ## Robbie
 
@@ -144,7 +144,7 @@ As noted above, this week will be light in hours for me. I'll make them up over 
 
 --------------
 
-# 4/24/17
+# 3/24/17
 
 ## Robbie
 
@@ -159,7 +159,7 @@ As noted above, this week will be light in hours for me. I'll make them up over 
 
 -------------
 
-# 4/31/17
+# 3/31/17
 
 ## Robbie
 
@@ -168,5 +168,16 @@ As noted above, this week will be light in hours for me. I'll make them up over 
 - Add test for Findbugs Task (1.75 hours)
 - Marshall both Checkstyle and FindBugs XML output into Go structs, test functionality, met with Connor to plan upcoming week, and debug JavaScript (5 hours)
 
+
+## Connor
+
+
+-----------
+
+# 4/7/17
+
+## Robbie
+
+- Implemented Repo-List container (2.5 hours)
 
 ## Connor
