@@ -179,5 +179,6 @@ As noted above, this week will be light in hours for me. I'll make them up over 
 ## Robbie
 
 - Implemented Repo-List container (2.5 hours)
+- Implement Terraform code to spin up Kubernetes instance. Spent about 5 hours trying to get Terraform to provision our containers automatically, but there is not sufficient example on the internet, nor first-class support in Terraform for such provisioning. There is [an open issue](https://github.com/hashicorp/terraform/issues/13420#issuecomment-292797962) describing how provisioning works now and requesting first class support. However, the example provided doesn't work. I implemented a some Python script to ensure a configuration is deployed. (10 hours)
 
 ## Connor
